@@ -6,4 +6,12 @@ html {
 
 body {
   color: white;
+  max-width: 600px;
+  margin: auto;
+}
+
+img {
+  max-height: 600px;
+  max-width: 600px;
+  width: 100%;
 }
